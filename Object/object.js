@@ -77,32 +77,6 @@ let person2 = [{
 }]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // destructuring in objects in array
 
 let [{ first_name }, { last_name }, { email }, { gender }, {phone_number}] = person2;
